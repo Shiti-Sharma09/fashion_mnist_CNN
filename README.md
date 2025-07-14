@@ -8,7 +8,18 @@ A TensorFlow/Keras-based CNN model that classifies grayscale images of clothing 
 
 - **Goal:** Train a CNN to classify images from the Fashion-MNIST dataset.
 - **Dataset:** 70,000 grayscale images (28x28), 10 fashion categories.
+- **Classification Categories:**
 
+  -- T-shirt/Top
+  -- Trouser
+  -- Pullover
+  -- Dress
+  -- Coat
+  -- Sandal
+  -- Shirt
+  -- Sneaker
+  -- Bag
+  -- Ankle Boot
 ---
 
 ## 🧠 Tech Stack
