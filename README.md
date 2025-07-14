@@ -20,6 +20,7 @@ A TensorFlow/Keras-based CNN model that classifies grayscale images of clothing 
   -- Sneaker
   -- Bag
   -- Ankle Boot
+  --
 ---
 
 ## 🧠 Tech Stack
