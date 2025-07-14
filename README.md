@@ -10,7 +10,7 @@ A TensorFlow/Keras-based CNN model that classifies grayscale images of clothing 
 - **Dataset:** 70,000 grayscale images (28x28), 10 fashion categories.
 - **Classification Categories:**
 
-  -- T-shirt/Top
+  ### -- T-shirt/Top
   -- Trouser
   -- Pullover
   -- Dress
@@ -20,7 +20,8 @@ A TensorFlow/Keras-based CNN model that classifies grayscale images of clothing 
   -- Sneaker
   -- Bag
   -- Ankle Boot
-  --
+  -- ###
+  
 ---
 
 ## 🧠 Tech Stack
